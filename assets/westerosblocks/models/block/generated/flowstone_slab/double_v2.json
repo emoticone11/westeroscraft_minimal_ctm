@@ -1,0 +1,18 @@
+{
+  "parent": "westerosblocks:block/untinted/cube",
+  "textures": {
+    "down": "westerosblocks:block/terrainset/flowstone/all2",
+    "up": "westerosblocks:block/terrainset/flowstone/all2",
+    "north": "westerosblocks:block/terrainset/flowstone/all2",
+    "south": "westerosblocks:block/terrainset/flowstone/all2",
+    "west": "westerosblocks:block/terrainset/flowstone/all2",
+    "east": "westerosblocks:block/terrainset/flowstone/all2",
+    "particle": "westerosblocks:block/terrainset/flowstone/all2",
+    "down_ov": "westerosblocks:block/terrainset_overlays/flowstone_overlay",
+    "up_ov": "westerosblocks:block/terrainset_overlays/flowstone_overlay",
+    "north_ov": "westerosblocks:block/terrainset_overlays/flowstone_overlay",
+    "south_ov": "westerosblocks:block/terrainset_overlays/flowstone_overlay",
+    "west_ov": "westerosblocks:block/terrainset_overlays/flowstone_overlay",
+    "east_ov": "westerosblocks:block/terrainset_overlays/flowstone_overlay"
+  }
+}
